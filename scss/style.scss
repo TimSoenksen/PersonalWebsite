@@ -1,0 +1,24 @@
+@import 'buttons';
+@import 'utilities';
+
+$font-stack: Arial, Helvetica, sans-serif;
+
+body{
+    background-color: #5b4f5e;
+    font-family: $font-stack;
+}
+
+.showcase{
+    color: white;
+    margin-top: 15%;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.nameShowcase{
+    font-size: 60px;
+}
+
+.nameSubtitle{
+    font-size: 15px;
+}
