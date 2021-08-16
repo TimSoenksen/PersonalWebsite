@@ -1,10 +1,10 @@
 import './App.css';
-import Showcase from './components/Showcase';
+import Header from './components/Header';
 
 function App() {
   return (
     <div className='App'>
-      <Showcase />
+      <Header />
     </div>
   );
 }
